@@ -264,6 +264,10 @@ de_DE:
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+    rbg_guide: Video-Anleitung
+    rbg_powered: bereitgestellt von der RBG.
+    rbg_whatsystem: Ein Videokonferenzsystem für virtuelle Lehrveranstaltungen
+    rbg_welcome: Willkomen auf dem BigBlueButton-Server des FMI
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen

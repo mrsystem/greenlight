@@ -265,6 +265,10 @@ en:
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
+    rbg_guide: Video guide
+    rbg_powered: provided by RBG.
+    rbg_whatsystem: A video conferencing system for online courses
+    rbg_welcome: Welcome to FMI's BigBlueButton server
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
