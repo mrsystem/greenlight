@@ -267,7 +267,7 @@ de_DE:
     rbg_guide: Video-Anleitung
     rbg_powered: bereitgestellt von der RBG.
     rbg_whatsystem: Ein Videokonferenzsystem für virtuelle Lehrveranstaltungen
-    rbg_welcome: Willkomen auf dem BigBlueButton-Server des FMI
+    rbg_welcome: Willkommen auf dem BigBlueButton-Server des FMI
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen
